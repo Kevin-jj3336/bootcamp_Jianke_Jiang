@@ -1,0 +1,15 @@
+# Local class materials
+class_materials/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Data (scoped to project/data/)
+project/data/raw/
+project/data/processed/
+
+.DS_Store
